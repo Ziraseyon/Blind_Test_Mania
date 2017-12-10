@@ -1,3 +1,8 @@
+# Brief
+An Application to help create Blind Test &amp; Play them. The Blind Tests are created/saved/loaded/played by a Java program on any compatible computer and the players can give their answers with an Android Application
+_description to be completed with further developpments_
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ziraseyon/Blind_Test_Mania/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
